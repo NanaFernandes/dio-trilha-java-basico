@@ -1,4 +1,4 @@
-```Mermaid
+```mermaid
 classDiagram
     
     class ReprodutorMusical {
@@ -22,4 +22,4 @@ classDiagram
     iPhone --|> ReprodutorMusical
     iPhone --|> AparelhoTelefonico
     iPhone --|> NavegadorInternet
-    ```Mermaid
+    ```mermaid
